@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/cavernicola
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cavernicola.github.io
+  * I am cavernicola (https://keybase.io/cavernicola) on keybase.
+  * I have a public key with fingerprint 123B C569 2E16 9057 8BAF  6784 6552 2B90 8E4C 162C
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.15"
+        },
+        "key": {
+            "fingerprint": "123bc5692e1690578baf678465522b908e4c162c",
+            "host": "keybase.io",
+            "key_id": "65522B908E4C162C",
+            "uid": "c86327afdc3f33291b384f554c736200",
+            "username": "cavernicola"
+        },
+        "merkle_root": {
+            "ctime": 1408575213,
+            "hash": "3e605265629a150d300f57d808271483a6cc695c119b33e476136bb85ae54f4f35de7c877fd249634440e83df0cf0a68e17b673a4f463d9583fe0fd4ebf632d0",
+            "seqno": 42365
+        },
+        "service": {
+            "hostname": "cavernicola.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1408575609,
+    "expire_in": 157680000,
+    "prev": "b60ed3ec2969498af635469a656d0b0adcf3404de8e52b8ce6ef78932a97257a",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFlkmtoHFUUx3e3NdWaaixR0FatA1ql63LnvmcVMYamYlIjtqCouN7X7I5JZjYz
+m9iwLIhYtbRi8yERUcQvsUolxbTYSlRU4itBA2pRGlSEUigtBi02loh6J0a0eD/d
+x+/8z/mfc/euWZHJZe9ZPzv6XMvWndmZkzKz7dcbh+qOjPSQU6w7qjcwYS3dhaLP
+OEWnxwxJkZhCEG0II20KjyYblpm8M2jiJIhCS4ECLrjEaeRTPo32g7Bs4mocpGKO
+C5FUhHrQuNQDhHEpfMo4poRAKD3ADVYuhcpqVqKkdl5aZ0mzFGh7u8TfYfnNuN3y
+7fZtYOlBcYogE75WyEcIeq5EHPuEYMUQhQCkYGLiZU9K2MrDQEW9Ii25z8Q9vaYU
+R9GScVULUsrFgBNGoItsUSKp2DhkKCCQEgo94RKgEQA+YZoDDpmLORJUKeoR5bqe
+RMhgRl1EpeREGIJ97COiDVOcMV9D7FGEMQaGI+0D5QNBuXGZpAwJy1KkPcKRb4Cv
+sZG+tadTF4npDyOniCGipJEe48FAmbTstHH/91coB7XKgPy7j9U4qkX21iKVWq2a
+FJ3GZN6pDVXToMeMLC3LlWQQajvA/47YtdnO7wwFXt4xO6pBbEpBShBGObArTWQG
+raSkwGhkFPSohz1uZ44Ipp6wHdRAAqGVjzDA2nBDoOTKUOMz7iEoPAYJE//6daGt
+U5StZhKUQ1EbiI3T2JVdvzKTzWWaLsilnziz+qKWf352R/OqP9XG1hc6rjy+va2p
++MXCWwvqLLz4w43vPP/s3Cerm2cP9JUmO3KjKuw6ePjshbecmvz4us4VbXtf2j06
+3TzzirPp8y3Vm+enh1u2n9q2r37/1OZrxi+7pLvK0brCb4/0/3KsPnfCfxXdsH/P
+3fmjO7Kt5dy73bMn8eNrj372QO+wnPr+ja/OTFx+/Pof6yMj62YWP5qY2j93b+PO
+kQf3fdNxRTKefaIz7HyzaWXlxcXbgzGOH25d27/p6V2v73yo7b5jBy79WT/zk+le
+dG/7tmf42uGJ8a1dTx75YOHc21vQVT2l9w+9tgBvcudPX93+lPr9yy5z7ruvz/xB
+grE9az59766x3fMnbmXk9PTLq374Cw==
+=SwQ/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cavernicola
+
+==================================================================
+
